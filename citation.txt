@@ -1,0 +1,11 @@
+@article{REPO223,
+    author = "Li, Shang and Yang, Zhiyuan and Reddy, Dhiraj and Srivastava, Ankur and Jacob, Bruce",
+    doi = "10.1109/LCA.2020.2973991",
+    journal = "IEEE Computer Architecture Letters",
+    keywords = "Random access memory;Thermal conductivity;Protocols;Thermal resistance;Computational modeling;Integrated circuit modeling;Three-dimensional displays;DRAM;cycle-accurate;simulation;3D-modeling;thermal modeling",
+    number = "2",
+    pages = "106-109",
+    title = "{DRAMsim3: A Cycle-Accurate, Thermal-Capable DRAM Simulator}",
+    volume = "19",
+    year = "2020"
+}
